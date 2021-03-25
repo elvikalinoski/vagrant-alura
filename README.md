@@ -49,3 +49,7 @@ Curso de Vagrant na Alura
 
 **Executa o provision**
  ```vagrant provision```
+
+
+**Valida arquivo de configuração**
+ ```vagrant validate```
