@@ -53,3 +53,18 @@ Curso de Vagrant na Alura
 
 **Valida arquivo de configuração**
  ```vagrant validate```
+
+**Lista os box**
+ ```vagrant box list```
+
+**Excluir box nao utilizados**
+ ```vagrant box prune```
+
+**Remover box expecifico**
+ ```vagrant box remove <nome>```
+
+**Status global**
+ ```vagrant global-status --prune```
+
+**Deletar uma vm passando id**
+ ```vagrant destroy -f <ID-da-VM>```
